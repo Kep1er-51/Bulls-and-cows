@@ -13,10 +13,15 @@ Download and install the latest version of Python 3.x from the official [python.
 Clone the repository from GitHub:
 
 ```sh
-git clone https://github.com/your_username/repository_name.git
+git clone https://github.com/Kep1er-51/Bulls-and-cows.git
 ```
 ### Step 3: Install Dependencies
 Install the dependencies listed in requirements.txt:
 ```sh
 pip install -r requirements.txt
+```
+### Step 4: Run the Game
+run terminal in the project directory launch the terminal in the project directory and enter the command:
+```sh
+python main.py
 ```
