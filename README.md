@@ -18,7 +18,7 @@ git clone https://github.com/Kep1er-51/Bulls-and-cows.git
 ### Step 3: Install Dependencies
 Install the dependencies listed in requirements.txt:
 ```sh
-pip install -r requirements.txt
+pip install tk
 ```
 ### Step 4: Run the Game
 run terminal in the project directory launch the terminal in the project directory and enter the command:
