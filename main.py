@@ -178,7 +178,6 @@ def generate_riddle():
         while len(set(riddle)) != config.riddle_length or riddle[0] == '0':
             random.shuffle(digits)
             riddle = ''.join(digits[:config.riddle_length])
-    print(riddle)
     return riddle
 
 # Function to check the answer and return the result
